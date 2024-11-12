@@ -8,7 +8,7 @@ Este projeto de Colab tem como objetivo agrupar clientes de um e-commerce do Rei
 
 ## Dataset
 
-O conjunto de dados utilizado contém transações ocorridas entre dezembro de 2010 e dezembro de 2011, fornecido pelo Kaggle: [link para o dataset].
+O conjunto de dados utilizado contém transações ocorridas entre dezembro de 2010 e dezembro de 2011, fornecido pelo Kaggle: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ## Etapas do Projeto
 
